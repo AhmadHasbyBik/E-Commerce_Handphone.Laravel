@@ -1,3 +1,4 @@
+1. Tampilan Awal Website
 <img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 50 49" src="https://user-images.githubusercontent.com/91450054/222056402-9b15e077-b92c-4626-866b-7f91352c9090.png">
 <img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 50 58" src="https://user-images.githubusercontent.com/91450054/222056452-74ff2a3e-2b2f-4243-a930-119c0aa7ce1e.png">
 <img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 51 22" src="https://user-images.githubusercontent.com/91450054/222056462-ea963165-c47d-4d64-821a-db0309b70486.png">
