@@ -12,5 +12,6 @@
 <img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 53 28" src="https://user-images.githubusercontent.com/91450054/222056898-05fc64c5-29e5-4d1f-b7b5-36b8a3a23eb1.png">
 6. This is checkout system, you can cancel or delete your order 
 <img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 53 36" src="https://user-images.githubusercontent.com/91450054/222056906-6ee0c67a-1e79-41c3-806c-387d652802b6.png">
+7. If you have to pay the phone, this receipt will show
 <img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 53 52" src="https://user-images.githubusercontent.com/91450054/222056913-cd7f1066-dd90-44ad-9642-bd32fb1be58d.png">
 <img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 54 02" src="https://user-images.githubusercontent.com/91450054/222056915-837c046c-62f1-4d8c-864d-ef7375c1b6cb.png">
