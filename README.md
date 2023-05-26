@@ -1,18 +1,64 @@
-                                        SCREENSHOT THE PROGRAM
-                                              by Abeeek
-1. First display of website
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 50 49" src="https://user-images.githubusercontent.com/91450054/222056402-9b15e077-b92c-4626-866b-7f91352c9090.png">
-2. If you dont have account, you can register first
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 50 58" src="https://user-images.githubusercontent.com/91450054/222056452-74ff2a3e-2b2f-4243-a930-119c0aa7ce1e.png">
-3. Then, you can input email and password which created before
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 51 22" src="https://user-images.githubusercontent.com/91450054/222056462-ea963165-c47d-4d64-821a-db0309b70486.png">
-4. This is main display of website, you can see the phone product with the price, if you want to buy, click "Pesan"
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 51 38" src="https://user-images.githubusercontent.com/91450054/222056464-c941147e-b170-4ef1-8c27-5accf6956132.png">
-5. You can input amount of phone which you will buy
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 53 28" src="https://user-images.githubusercontent.com/91450054/222056898-05fc64c5-29e5-4d1f-b7b5-36b8a3a23eb1.png">
-6. This is checkout system, you can cancel or delete your order 
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 53 36" src="https://user-images.githubusercontent.com/91450054/222056906-6ee0c67a-1e79-41c3-806c-387d652802b6.png">
-7. If you have to pay the phone, this receipt will show buyer
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 53 52" src="https://user-images.githubusercontent.com/91450054/222056913-cd7f1066-dd90-44ad-9642-bd32fb1be58d.png">
-8. 
-<img width="1280" alt="Jepretan Layar 2023-03-01 pukul 12 54 02" src="https://user-images.githubusercontent.com/91450054/222056915-837c046c-62f1-4d8c-864d-ef7375c1b6cb.png">
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
+## About Laravel
+
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Learning Laravel
+
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+
+## Laravel Sponsors
+
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
+### Premium Partners
+
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
